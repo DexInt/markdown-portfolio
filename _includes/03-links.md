@@ -1,1 +1,1 @@
-[My GitHub](https://github.com/DexInt)
+[GitHub](https://github.com)
